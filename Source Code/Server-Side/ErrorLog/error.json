@@ -1,0 +1,9 @@
+{
+  "error": [
+    {
+      "errorDate": "12/15/2019",
+      "errorMessage": "message",
+      "errorWhere": "where"
+    }
+  ]
+}
