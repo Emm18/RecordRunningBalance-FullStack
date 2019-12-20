@@ -1,4 +1,3 @@
-NOTE: WILL UPLOAD SOON!
 # Record Running Balance with Daily report
   # FULL STACK
    # Client Side
@@ -12,5 +11,11 @@ NOTE: WILL UPLOAD SOON!
      - Node js express
      - SQLite3
      - REST api
+    
+   # HOSTING : 
+    - IIS
+    - PM2
      
 # A program that lets the user CREATE, READ, UPDATE, DELETE transactions with FORM VALIDATIONS, computes the total amount, and VIEW or PRINT the transactions
+
+# I also learned how to HOST React-App in IIS/WEB SERVER and How to HOST NODE JS in pm2
