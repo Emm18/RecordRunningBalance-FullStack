@@ -52,7 +52,7 @@ class TransactionList extends Component {
                             </Row>
                             <Row className="justify-content-md-center">
                                 <Col>
-                                    <h2 style={{ "fontStyle": "italic", "textDecoration": "underline" }}>Orange County Live Scan Daily Report</h2>
+                                    <h2 style={{ "fontStyle": "italic", "textDecoration": "underline" }}>ENTER COMPANY NAME HERE</h2>
                                 </Col>
 
                             </Row>
