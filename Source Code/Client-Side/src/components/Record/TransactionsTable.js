@@ -28,7 +28,7 @@ class TransactionTable extends Component {
             <Container>
                 <Row>
                     <Col xs={10} lg={10}>
-                        <h2 style={{ "fontStyle": "italic", "textDecoration": "underline" }}>Orange County Live Scan Daily Report</h2>
+                        <h2 style={{ "fontStyle": "italic", "textDecoration": "underline" }}>ENTER COMPANY NAME HERE</h2>
                         <br />
                         <h3>Transactions as of {this.props.todaysDate}</h3>
                     </Col>
